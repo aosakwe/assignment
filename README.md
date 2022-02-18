@@ -9,7 +9,7 @@ To do this, you will try to sample the literature in this specific domain (defin
 (fMRI[Title/Abstract]) AND (memory[Title/Abstract] AND n-back)
 https://pubmed.ncbi.nlm.nih.gov/?term=%28fMRI%5BTitle%2FAbstract%5D%29+AND+%28memory%5BTitle%2FAbstract%5D+AND+n-back%29
 
-## The goals of this assignment are to 
+## The goals of this assignment are to:
 1) Make you aware of the level of reusability of the literature in this specific domain
 2) Get some experience with a collaborative work using Git
 
@@ -18,7 +18,7 @@ https://pubmed.ncbi.nlm.nih.gov/?term=%28fMRI%5BTitle%2FAbstract%5D%29+AND+%28me
 - Procedure, code, results should be pushed to the [Github](https://github.com/QLS600/) organization. You may reuse the assignment repository if you wish. 
 - Discussions / organization can happen on a slack space or using GitHub issues but should be open to all students and myself.
 
-## Presentation
+## Presentation:
 On Thursday March 10th, the class will be presenting the results. 
 I suggest to present the work with the following sections:  
 
@@ -26,9 +26,9 @@ I suggest to present the work with the following sections:
 - Protocol for data acquisition, how was the work organized across students (~15mn)
 - Analysis of results and conclusions (~15mn)
 
-# Personnel feedback
+## Personnel feedback
 In addition, each student should write a paragraph to give some feedback on their personal experience (difficulties, lessons learnt, etc). Please email me the paragraph by March 18th.
 
-# Other
+## Other
 A few students asked to finish a specific reproducibility project. This project also needs to be presented (10-15mn) on March 10th.
 
