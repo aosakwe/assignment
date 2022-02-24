@@ -1,3 +1,8 @@
+## Updates
+
+- 24/02/22 (Adrien O) Added top_authors.csv file showing the 20 authors with the most publications in the given query. Also added other csv files acquired from the PubMed query page.
+
+ 
 # QLS600 reproducibility assignment
 
 Reproducibility / reusability in life sciences is impacted by many factors. In particular, the availability of code or software on the one hand, and of data on the other, is a key component for the ability to reuse research and replicate results. 
