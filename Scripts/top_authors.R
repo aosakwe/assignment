@@ -3,7 +3,7 @@ library(tidyverse)
 pubmed <- read.csv("./Data/csv-fMRITitleA-set.csv")
 authors <- pubmed$Authors
 authors <- unlist(strsplit(authors, split  = ","))
-authors <- sapply(authors, function(a) str_replace_all(a,"\\.",""))
+authors <- str_replace_all(authors,"\\.","")
 autable <- as.data.frame(table(authors))
 autable <- autable[order(autable$Freq,decreasing = TRUE),]
 autable[1:20,]
