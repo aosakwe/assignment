@@ -37,7 +37,7 @@ def extractTextFromPDF(pdf_link):
   text = str(extracted_text) #convert to string for ease
   text = text.replace('\n', ' ') #replace \n with space
   text = text.replace('\\n', ' ') #replace \n with space
-
+  f.close()
   return text
 
 # %%
