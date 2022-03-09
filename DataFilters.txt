@@ -1,0 +1,24 @@
+3 Data Filters
+Applied to QLS project (538 results):
+
+First Query: has data avail[filter] AND (fMRI[Title/Abstract]) AND (memory[Title/Abstract] AND n-back)  11 results
+
+Second Query: has suppdata[filter] AND (fMRI[Title/Abstract]) AND (memory[Title/Abstract] AND n-back)   19 results
+
+Third Query: has data citations[filter] AND (fMRI[Title/Abstract]) AND (memory[Title/Abstract] AND n-back)  0 results
+
+Exactly 20 non-overlapping (i.e. doubles in both first a second query) with data 
+available:
+PMC8414685 PMC4536207 PMC4488500 PMC5509143 PMC7591503 PMC5459425 PMC8548369 PMC6737283 PMC8519858 PMC6998246 PMC8328716 PMC8196262 PMC6581736 PMC6411826 PMC7069667 PMC6870640 PMC3440479 PMC7345823 PMC7815476 PMC6869726
+
+
+~ 7/20  had data or methods descriptions available:
+
+Data Locoations (examples)
+SUPPLEMENTARY MATERIAL : Appendix 
+■ SUPPLEMENTARY MATERIAL: Data sheet
+■ SUPPLEMENTARY ONLINE MATERIAL
+■ SUPPLEMENTARY MATERIAL
+■ TABLE S1 (summary of 20 studies MR field strength and analysis software)
+ 
+
