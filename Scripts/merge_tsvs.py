@@ -25,4 +25,9 @@ files = glob.glob(files)
 # joining files with concat and read_csv
 colnames = ['PMID', 'Title', 'Authors', 'Citation', 'First.Author', 'Journal.Book', 'Publication.Year', 'Create.Date', 'PMCID', 'NIHMS.ID', 'DOI', 'Data Available', 'Open Access', 'Code Available', 'Notes']
 df = pd.concat(map(lambda fs: pd.read_csv(fs, sep='\t', names=colnames, header=0), files))
+
+# use True/False instead of 1/0 encoding
+for colname in ['Data Available', 'Open Access', 'Code Available']:
+	df[colname] = df[colname].map(lambda x: True if x == 1 else False if x == 0 else x)
+
 df.to_csv('./Data/Labeling/merged_annot.tsv', sep='\t', index=False)
