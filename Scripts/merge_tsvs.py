@@ -28,6 +28,6 @@ df = pd.concat(map(lambda fs: pd.read_csv(fs, sep='\t', names=colnames, header=0
 
 # use True/False instead of 1/0 encoding
 for colname in ['Data Available', 'Open Access', 'Code Available']:
-	df[colname] = df[colname].map(lambda x: True if x == 1 else False if x == 0 else x)
+	df[colname] = df[colname].map(lambda x: True if x in [1, '1'] else False if x in [0, '0'] else x)
 
 df.to_csv('./Data/Labeling/merged_annot.tsv', sep='\t', index=False)
