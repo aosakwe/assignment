@@ -1,7 +1,6 @@
 ## Updates
 
 - 24/02/22 (Adrien O) Added top_authors.csv file showing the 20 authors with the most publications in the given query. Also added other csv files acquired from the PubMed query page.
-
  
 # QLS600 reproducibility assignment
 
@@ -37,3 +36,6 @@ In addition, each student should write a paragraph to give some feedback on thei
 ## Other
 A few students asked to complete a specific reproducibility project. This project also needs to be presented (10-15mn) on March 10th.
 
+## Presentation Link
+
+Our presentation can be found [here](https://mcgill-my.sharepoint.com/:p:/g/personal/benjamin_rudski_mail_mcgill_ca/EQmT9MkJPqJImQQV715pM8cBqMVc9v7tlrLtsVr5LlYXgA?e=OwUxqR) (McGill University login required).
