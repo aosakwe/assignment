@@ -1,0 +1,98 @@
+Assigned #s                               
+Lit ID's
+PMC Access
+Raw Data Available
+Data Summary Statistics Available
+Code
+Notes 
+
+1
+103 
+23044088
+N
+N
+Y
+N
+See Table 1 Talairach coordinates (center of gravity) and Z scores of activated areas during 0-BACK, 1-BACK and 2-BACK conditions and Table 2 Talairach coordinates (center of gravity) in areas modulating during 0-BACK, 1-BACK and 2-BACK conditions, and ANOVA results.
+
+2
+436 
+21547622
+Y
+N
+Y
+N
+See Tables 1-5 for summary statistics. Also, Table 6 Brain activation (mean percent of voxels with activity z-scores>3) in regions of interest during the 1-back working memory condition relative to the control condition, across the four study groups; Table 7 Brain activation in regions of interest during the 2-back working memory condition relative to the control condition, across the four study groups; Table 8 Increase in brain activation (using the activation measure: mean percent of voxels with activity z-scores>3) during more difficult 2-back task compared to 1-back task, across the four study groups. Data not shown: "The level of activation (when measured as the mean activity z-score across all voxels within each brain region) during the 1-back task was also comparable across all study groups (data not shown)." Data not presented: "All Pearson Correlation Coefficients had two-tailed p-values > 0.05 (data not presented)."
+
+3
+265 
+23828159
+Y
+N
+Y
+N
+See Supplementary Materials: NIHMS502412-supplement-213_2013_3197_MOESM1_ESM.doc. Also,"Details regarding participants and procedures for the replication sample have been previously described (Falcone, et al., 2013)."
+
+4
+43
+25800207
+N
+N
+Y
+N
+Supplementary Material: "Univariate analyses comparing commission errors to correct omissions". Table 1. "Mean peak coordinates of participant-specific regions of interest. Coordinates (x, y, z) are in MNI stereotaxic space." Table 2. "Peak coordinates of regions significantly correlated with RT variability across subjects. Coordinates (x, y, z) are in MNI stereotaxic space." Table 3 "In-the-zone vs. out-of-the-zone classification accuracy in cortical ROIs from the Harvard–Oxford Atlas. Percent classification accuracy is averaged across subjects in each of the 48 Harvard–Oxford ROIs. Chance was considered 50% in all regions. * p < 0.05 (Bonferroni-corrected for 48 regions); † p < 0.01 (uncorrected)". Fig. 3. "Regions correlated with RT variability". Fig. 5. "Harvard–Oxford regions in which classification during the low load task exceeded chance..."
+
+5
+413
+25066663
+N
+N
+Y
+N
+"Supplementary Table S1. Significant activations and de-activations in the depressed patients during n-back task performance (2-back versus baseline contrast)." "Data are given as mean (standard deviation)."- "Table 1. Demographic and clinical features of the patients and controls." See figures 2-5 for colormetric diagrams and pictorial representations of activated regions. 
+
+6
+124 
+33508891
+Y
+Y- available
+Y
+possibly upon request
+See 1.   Supplementary materials: 1.1.   Methods and Materials: 1.1.1.Anatomical preprocessing, 
+
+7
+311 
+23849992
+N
+N
+Y
+N
+See Tables 1-4 for summary statistics.
+
+8
+191 
+24600374
+Y
+N
+Y
+N
+See Supp Figures 1-5.
+
+9
+382 
+15099600
+N
+N
+Y
+N
+See Fig. 2. for "'Performance data' for each level of the N-back task (*=p<0.01): percentage incorrect responses (+standard error of mean (sem))." Table 1 and 2 have descriptive statistics. Figure 3:" Graphs representing the level of activation (±sem) in selected regions of interest at each level of the N-back task."
+
+10
+409 
+25282143
+N
+N
+Y
+N
+"Summary stats: Table 1."" Brain regions and coordinates of clusters and local maxima for n-back tasks.""
+Accuracy stats and reaction time in Fig 1 and 2 respectively: Fig. 1. ""Accuracy of n-back tasks."" Fig. 2. ""Reaction time of n-back tasks"""
